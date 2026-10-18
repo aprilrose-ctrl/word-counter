@@ -1,0 +1,6 @@
+
+Hello! Welcome to my word counter project.
+
+This program counts the number of lines, words, and characters in a text file.
+
+I am learning Node.js and JavaScript. This activity helps me understand file reading, error handling, and command line arguments.
